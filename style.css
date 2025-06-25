@@ -37,4 +37,7 @@ body {
   background-position: center;
   background-size: cover;
 
+  background-color: rgba(0, 0, 0, 0.6); /* কালো অন্ধকার */
+  background-blend-mode: darken;
 }
+
